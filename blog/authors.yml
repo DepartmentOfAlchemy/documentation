@@ -1,3 +1,14 @@
+jep:
+  name: Jesse Peterson
+  title: Department of Alchemy owner
+  url: https://departmentofalchemy.com
+  image_url: https://avatars.githubusercontent.com/u/1245371?s=96&v=4
+  page: true
+  socials:
+    x: cubeinhabitant
+    linkedin: jesse-peterson-94b2a36
+    github: cubeinhabitant
+
 yangshun:
   name: Yangshun Tay
   title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
