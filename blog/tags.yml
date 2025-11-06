@@ -1,3 +1,23 @@
+halloween:
+  label: Halloween
+  permalink: /halloween
+  description: Tag related to the holiday of Halloween
+
+controller:
+  label: Controller
+  permalink: /controller
+  description: Tag related to prop controllers
+
+prototype:
+  label: Prototype
+  permalink: /prototype
+  description: Tag related to prototypes
+
+departmentofalchemy:
+  label: Department of Alchemy
+  permalink: /departmentofalchemy
+  description: Tag related to Department of Alchemy projects
+
 facebook:
   label: Facebook
   permalink: /facebook
